@@ -16,7 +16,7 @@ You can have a look at the real-world heatmaps which are posted by users in the 
 
 #### Project Version
 ```
-0.3.0
+0.3.0.dev1
 ```
 
 
@@ -62,7 +62,7 @@ Install the following on both the WG server and WG peer
 * Install the project
     ```bash
     # Use your environment manager of choice like virtualenv or conda or poetry to pre-create an environment
-    pip install nr-wg-mtu-finder==0.3.0 --upgrade
+    pip install nr-wg-mtu-finder==0.3.0.dev1 --upgrade
     ```
 
 # Usage
